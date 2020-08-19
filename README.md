@@ -5,6 +5,11 @@ The [WordNet](http://wordnet.princeton.edu) dataset is provided in a format that
 
 **Using JSON, anyone can import and use WordNet dataset with ease.**
 
+Version
+-------
+
+This dataset was built from version 3.1 of the [WordNet data files](https://wordnet.princeton.edu/download/current-version).
+
 Citation
 --------
 
